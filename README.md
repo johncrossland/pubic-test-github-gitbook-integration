@@ -1,3 +1,6 @@
-# My Awesome Book
+# Public Test GitHub GitBook Integration
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Test public GitBook to try public GitHub integration. Test if my GitHub repo links to GitBook:
+
+https://github.com/johncrossland/pubic-test-github-gitbook-integration/blob/master/README.md
+

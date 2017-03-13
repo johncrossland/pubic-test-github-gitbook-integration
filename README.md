@@ -1,6 +1,6 @@
-# Public Test GitHub GitBook Integration
+# Published Public Test GitHub GitBook Integration
 
-Test public GitBook to try public GitHub integration. Test if my GitHub repo links to GitBook:
+Published public tst GitBook to try public GitHub integration. Test if my GitHub repo links to GitBook:
 
-https://github.com/johncrossland/pubic-test-github-gitbook-integration/blob/master/README.md
+[https://github.com/johncrossland/pubic-test-github-gitbook-integration/blob/master/README.md](https://github.com/johncrossland/pubic-test-github-gitbook-integration/blob/master/README.md)
 
